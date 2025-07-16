@@ -51,5 +51,3 @@ python assistant_gui.py
 |-------------------|----------------------------------------|
 | `assistant_gui.py` | Main Python script for the assistant   |
 | `README.md`        | Project documentation and instructions |
-| `screenshot.png`   | GUI screenshot preview (optional)      |
-
